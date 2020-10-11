@@ -30,6 +30,5 @@
 30. Faruq Bakare - bakareFaruq.js
 31. Mujeeb Abdulrahman - AbdulrahmanMujeeb.js
 32. Caleb Stanley - calebStanley.js
-33. Adeyemi Jammal - adeyemiJammal
-
-
+33. Adeyemi Jammal - 
+34. Adegoke Ayobami - adegokeAyobami.js
